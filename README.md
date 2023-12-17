@@ -1,1 +1,2 @@
 # LingoSync
+init comming
